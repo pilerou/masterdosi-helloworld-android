@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercice</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bonjour</string>
+    <string name="nomTextHint">Saisir votre nom</string>
+    <string name="buttonPageDeux">Vers page 2</string>
+    <string name="buttonPageTrois">Vers page 3</string>
+    <string name="title_activity_page_deux">Page 2</string>
+    <string name="page_deux_message">Nous sommes sur la page 2</string>
+    <string name="title_activity_page_trois">Page 3</string>
+    <string name="retour">Retour</string>
+
+</resources>
